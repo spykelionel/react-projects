@@ -1,22 +1,29 @@
-### 🧪 Project Submission: [Project Title]
+---
+name: 🚀 Project Submission
+about: Submit a frontend project for review
+title: "[Submission] Project Title"
+labels: submission, review
+assignees: NdiAfanyuLionel
+---
 
-**🔗 Live Demo / GitHub Repo:**  
-[Paste your deployed link or GitHub repository URL here]
+## 🔗 Project Link
+
+Paste your deployed app or GitHub repo URL here.
 
 ---
 
-### 🧠 Approach & Architecture
+## 🧠 Approach & Architecture
 
 Briefly explain:
-- Your overall strategy for building the project
-- How you structured your components and state
-- Any design decisions or trade-offs
+- Your overall strategy
+- Component and state structure
+- Design decisions or trade-offs
 
 ---
 
-### ⚙️ Technologies Used
+## ⚙️ Technologies Used
 
-List the tools and libraries you used:
+List your stack:
 - React
 - Redux Toolkit
 - Tailwind CSS
@@ -26,31 +33,28 @@ List the tools and libraries you used:
 
 ---
 
-### 🧩 Challenges & Solutions
+## 🧩 Challenges & Solutions
 
-Describe any major challenges you faced and how you solved them:
-- Example: “Struggled with Redux async logic — solved using createAsyncThunk”
-- Example: “Had trouble with Tailwind responsiveness — fixed with custom breakpoints”
+Describe any major challenges and how you solved them.
 
 ---
 
-### 📦 Backend Integration (if applicable)
+## 🔐 Backend Integration (Optional)
 
-If you used a backend service:
-- Which BaaS did you choose?
-- What data did you store?
-- How did you handle authentication or API calls?
+If applicable:
+- BaaS used
+- Auth method
+- Data stored
+- Hosting platform
 
 ---
 
-### 🧹 Improvements & Next Steps
+## 🧹 Improvements & Next Steps
 
 What would you improve or add next?
-- Example: “Add unit tests with Vitest”
-- Example: “Refactor components into reusable UI library”
 
 ---
 
-### 🏷️ Reviewer Tag
+## 🏷️ Reviewer Tag
 
 @spykelionel — please review when available.
